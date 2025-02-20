@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,a8 as n}from"./chunks/framework.D4kDUKjx.js";const m=JSON.parse('{"title":"Built-in Types","description":"","frontmatter":{},"headers":[],"relativePath":"api/types.md","filePath":"api/types.md"}'),s={name:"api/types.md"},r=n("",10),d=[r];function a(i,p,l,c,u,y){return o(),t("div",null,d)}const h=e(s,[["render",a]]);export{m as __pageData,h as default};

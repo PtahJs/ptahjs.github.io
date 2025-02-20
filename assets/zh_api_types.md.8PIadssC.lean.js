@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t,a8 as r}from"./chunks/framework.D4kDUKjx.js";const h=JSON.parse('{"title":"内置类型","description":"","frontmatter":{},"headers":[],"relativePath":"zh/api/types.md","filePath":"zh/api/types.md"}'),d={name:"zh/api/types.md"},l=r("",10),a=[l];function n(s,c,i,p,u,y){return t(),o("div",null,a)}const T=e(d,[["render",n]]);export{h as __pageData,T as default};
